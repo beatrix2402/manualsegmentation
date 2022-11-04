@@ -1,0 +1,6 @@
+masks,images
+manualsegmentation/Ground_Truth/1.png,manualsegmentation/Training_Images/1.png
+manualsegmentation/Ground_Truth/2.png,manualsegmentation/Training_Images/2.png
+manualsegmentation/Ground_Truth/3.png,manualsegmentation/Training_Images/3.png
+manualsegmentation/Ground_Truth/4.png,manualsegmentation/Training_Images/4.png
+manualsegmentation/Ground_Truth/5.png,manualsegmentation/Training_Images/5.png
